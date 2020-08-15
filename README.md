@@ -1,6 +1,6 @@
-#Projekt MWCMMS
+# Projekt MWCMMS
 
-##Projekt systemu CMMS 
+## Projekt systemu CMMS 
 
-##Praca inżynierska Mateusz Wróblewski UMK WMII NSI 
+## Praca inżynierska Mateusz Wróblewski UMK WMII NSI 
 
